@@ -1,4 +1,4 @@
-# My-Projects 📁
+# FRONTEND WEBPAGE 📁
 ## Responsive Ecommerce page 🛒
 
 Welcome to Madhu's Spice Hub – A Flavorful Journey with Spices!
