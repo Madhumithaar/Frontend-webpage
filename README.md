@@ -19,8 +19,18 @@ This is a frontend website designed to showcase and explore a delightful collect
 ## Usage 🖥️
 Simply open the index.html file in your preferred web browser to explore the spice collection. Navigate through the site to discover detailed information about each spice.
 
-## Contributing 🤝
-We welcome contributions! If you have ideas for improvements, new features, or encounter any issues, feel free to open an issue or submit a pull request.
+##Home page:-
+![Page 1](https://github.com/Madhumithaar/Frontend-webpage/assets/155747753/16c11a3f-4df5-41ae-a25d-9f73f5e6f307)
+
+##About page:-
+![about](https://github.com/Madhumithaar/Frontend-webpage/assets/155747753/a43cd079-4632-40a7-ad5d-be55b757cec4)
+
+##Cart page:-
+![Page 2](https://github.com/Madhumithaar/Frontend-webpage/assets/155747753/b7400fcf-574d-48d2-8694-7d3feb2fda1b)
+![Page 3](https://github.com/Madhumithaar/Frontend-webpage/assets/155747753/2ba45268-eb3d-4219-bf03-6c1e7fadfc2b)
+
+##Contact us page:-
 
 
+![Page 4](https://github.com/Madhumithaar/Frontend-webpage/assets/155747753/567e3d9a-d3f2-4492-9120-f7cba6275302)
 
